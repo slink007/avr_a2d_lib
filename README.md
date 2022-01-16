@@ -1,1 +1,1 @@
-# avr_a2d_lib
+Code to configure and use the analog to digital converter for a PIC/AVR Atmega32.  It may, or may not, work with other AVR models (I haven't tried).  This code is intended to be imported into another project rather than running on its own.
